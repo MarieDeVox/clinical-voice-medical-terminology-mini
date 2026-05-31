@@ -1,0 +1,39 @@
+{
+  "dataset_name": "FREE PREVIEW: Clinical AI Voice Dataset — Medical Terminology Series",
+  "total_lines": 4,
+  "format_version": "1.0",
+  "audio_specifications": {
+    "sample_rate_hz": 48000,
+    "bit_depth": 24,
+    "channels": 1,
+    "encoding": "Signed Linear PCM Mono WAV",
+    "target_loudness_lufs": -23.0,
+    "true_peak_db": -1.0
+  },
+  "voice_assets": [
+    {
+      "id": "MED0003",
+      "path": "wavs/MED0003.wav",
+      "raw_text": "Oligodendroglioma",
+      "normalized_text": "Oligodendroglioma"
+    },
+    {
+      "id": "MED0012",
+      "path": "wavs/MED0012.wav",
+      "raw_text": "Metoprolol succinate intravenous infusion",
+      "normalized_text": "Metoprolol succinate intravenous infusion"
+    },
+    {
+      "id": "MED0028",
+      "path": "wavs/MED0028.wav",
+      "raw_text": "The specimens consisting of the gallbladder and a localized lipoma were sent to surgical pathology.",
+      "normalized_text": "The specimens consisting of the gallbladder and a localized lipoma were sent to surgical pathology."
+    },
+    {
+      "id": "MED0032",
+      "path": "wavs/MED0032.wav",
+      "raw_text": "Assessment and Plan Number one comma acute decompensated heart failure with reduced ejection fraction period.",
+      "normalized_text": "Assessment and Plan Number one comma acute decompensated heart failure with reduced ejection fraction period."
+    }
+  ]
+}

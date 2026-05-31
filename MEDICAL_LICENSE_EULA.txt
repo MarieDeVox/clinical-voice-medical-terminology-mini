@@ -1,0 +1,39 @@
+﻿## DATASET END-USER LICENSE AGREEMENT (EULA) – MEDICAL INTENT EDITION
+##LICENSOR / VENDOR: MARIE DEVOX
+
+This Dataset End-User License Agreement ("Agreement") is a legally binding contract between the individual or corporate entity purchasing access to these files ("Licensee") and the Licensor named above. By downloading, unzipping, accessing, or utilizing any audio files (.wav) or metadata (.csv/.json) contained within this package, Licensee agrees to be contractually bound by these terms.
+
+**IMPORTANT NOTICE:** This is a multi-tier framework document. The Licensee’s actual legal permissions are strictly limited only to the specific single Tier Variation purchased at checkout, as verified by the official payment storefront invoice (Payhip) and corresponding License Key.
+
+#### 1. GRANT OF LICENSE & VARIATION TIERS
+
+Subject to the specific Tier Variation purchased by the Licensee via the authorized payment storefront, Licensor grants Licensee a non-transferable, non-sublicensable, worldwide, perpetual license to use the voice data strictly under the following tier-specific parameters:
+
+* **TIER 1:** INDIE DEVELOPER LICENSE Licensee may ingest the raw audio assets and metadata into local software engineering pipelines to deploy an embedded, dedicated vocal user interface (UI/UX) inside one (1) proprietary clinical software application, mobile health app, telehealth prototype, or active medical conversational triage/routing bot. This license is strictly capped at a maximum scale of one hundred thousand (100,000) Monthly Active Users (MAUs) or 100,000 monthly call sessions. This tier permits intent-mapped software embedding and playback logic; it explicitly prohibits the training of generative, open-ended machine learning Text-to-Speech (TTS) engines or arbitrary voice-cloning platforms.
+
+
+* **TIER 2:** ENTERPRISE TRAINING LICENSE Licensee is granted an enterprise-scale integration license to ingest this dataset and developer-grade JSON sidecar metadata into advanced clinical Interactive Voice Response (IVR) architectures, enterprise hospital telephony infrastructures, automated patient-intake smart-assistants, and localized, intent-mapped conversational medical speech pipelines. This tier completely lifts all active user scaling caps, concurrency limitations, and infrastructure capacity restrictions.
+
+
+#### 2. STRICT RESTRICTIONS & PROHIBITED USES
+
+Regardless of the Tier purchased, Licensee explicitly agrees to the following compliance restrictions:
+
+* **No Resale or Redistribution:** Licensee shall not sell, rent, lease, sublicense, distribute, or publicly share the raw .wav audio files or .csv metadata maps with any third party.
+* **Generative AI & Foundational Model Prohibition:** Under no circumstances may this dataset be ingested into foundational, open-ended generative Large Language Models (LLMs), public or multi-tenant text-to-speech (TTS) cloning platforms, or any open-ended synthetic voice replication engine capable of arbitrary text synthesis. Full intellectual property assignment and generative AI foundation model buyouts are completely excluded from this contract and require a separate custom corporate procurement contract.
+* **Defamation & Harm Mitigation:** Licensee is strictly forbidden from utilizing the audio assets or any derivative voice assets to generate deepfakes, disseminate deliberate medical misinformation, execute illegal or fraudulent operations, or simulate political, harassing, or non-consensual defamatory statements.
+* **Regulatory Compliance:** The data must not be deployed in any configuration that violates the Telephone Consumer Protection Act (TCPA), GDPR, HIPAA, or the European Union AI Act.
+
+#### 3. MEDICAL DISCLAIMER & LIABILITY EXCLUSION
+
+* **No Medical Advice or Clinical Diagnosis:** Licensee explicitly acknowledges that this dataset consists purely of acoustic and linguistic performance data engineered for machine learning model training. The audio files and accompanying text metadata do not constitute medical advice, clinical pathways, or formal diagnostic criteria.
+* **Absolute Exclusion of Malpractice Liability:** Licensor provides no warranty or representation regarding the clinical accuracy, safety, or efficacy of downstream models trained using this data. Under no circumstances shall Licensor be held liable for any medical diagnostic errors, patient triaging failures, clinical malpractice claims, personal injuries, or operational medical liabilities resulting from software applications built, fine-tuned, or optimized with this dataset.
+
+#### 4. LEGAL COVENANTS & INTELLECTUAL PROPERTY INDEMNITY
+* **Provenance & Synthetic Patient Data Guarantee:** Licensor warrants that they are the sole human source, voice talent, and legitimate owner of the vocal recordings, holding exclusive title and copyright authority to license the data. Licensor guarantees that all patient scenarios, clinical descriptions, symptoms, and medical intents portrayed in the metadata are completely simulated, fictionalized, and synthesized scripts. No real-world patient records, Protected Health Information (PHI), or HIPAA-regulated data points have been utilized in the creation of this dataset.
+* **Audit Compliance:** Licensor reserves the right to request proof of Tier compliance, application deployment scale, or system architecture audits. The serial License Key issued by Payhip upon checkout serves as the official transaction certificate and legal proof of permission.
+
+#### 5. TERMINATION & REMEDIES
+Any breach of the terms, volume caps, or deployment boundaries outlined in this Agreement instantly terminates the license granted herein. Upon termination, Licensee must immediately cease all commercial use, delete all local copies of the raw dataset, purge all associated audio files from their software repositories, and permanently destroy any pipeline configurations generated from this data.
+
+IN WITNESS WHEREOF, the digital acquisition of this package via Payhip establishes a binding execution of this contract between the Licensor and Licensee.
