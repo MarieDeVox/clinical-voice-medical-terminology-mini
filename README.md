@@ -26,7 +26,7 @@ size_categories:
 
 **Format: LJ Speech Standard Compliance | 24-bit Signed Linear PCM Mono WAV | 48kHz**
 
-Thank you for downloading this Developer Compatibility Sample Pack. This repository contains enterprise-grade, high-fidelity, ethically sourced human voice data optimized specifically for training, benchmarking, and stress-testing clinical transcription models, medical speech-to-text (STT) pipelines, and health-tech conversational interfaces.
+Thank you for downloading this Developer Compatibility Sample Pack. This repository contains enterprise-grade, high-fidelity, ethically sourced human voice data optimized specifically for training, benchmarking, and stress-testing clinical transcription models, medical speech-to-text (STT) pipelines, and health-tech conversational interfaces. This dataset is completely risk-free, as the vendor is the sole creator of the complete package (including voice, production, and data curation).
 
 ### WHAT IS INCLUDED IN THIS PACKAGE
 
@@ -64,7 +64,7 @@ We offer a risk-free License Credit Upgrade system for growing operations. Purch
 ### AVAILABLE COMMERCIAL TIERS:
 
 1. **Tier 1: Indie Developer License ($149)** - Full 38-line medical benchmark dataset + relative path metadata for local model testing and integration into **one (1) commercial application or clinical tool**. Legally capped at 100,000 Monthly Active Users (MAUs) or active sessions.
-2. **Tier 2: Enterprise Developer License ($1,499)** - Full 38-line medical benchmark dataset with an un-capped corporate deployment license. Lifts all concurrency limits and active user tracking caps, allowing for unlimited multi-application deployment across wide-scale healthcare networks, hospital systems, and enterprise medical SaaS pipelines.
+2. **Tier 2: Enterprise Developer License ($1,499)** - Full 38-line medical benchmark dataset with an uncapped corporate deployment license. Lifts all concurrency limits and active user tracking caps, allowing for unlimited multi-application deployment across wide-scale healthcare networks, hospital systems, and enterprise medical SaaS pipelines.
 
 **VISIT https://payhip.com/MarieDeVox TO UNLOCK THE FULL PRODUCTION DATASET AND UPGRADE YOUR LICENSE**
 
